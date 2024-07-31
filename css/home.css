@@ -1,0 +1,35 @@
+.logo {
+  max-width: 100px;
+}
+
+.container {
+  padding-top: 50px;
+}
+.logo1 {
+  margin-top: -60px;
+  max-width: 160px;
+  height: auto; /* Para que se ajuste proporcionalmente a la anchura */
+}
+.logo2 {
+  margin-top: -60px;
+  max-width: 190px;
+  height: auto; /* Para que se ajuste proporcionalmente a la anchura */
+}
+.T-uni {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: blue;
+  margin-top: 30px;
+}
+.name, .prof, .grup, .materia, .parcial {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(0, 0, 0);
+  margin-top: 26px;
+}
+img.img-fluid {
+  max-width: 70%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  margin-top: 70px;
+}

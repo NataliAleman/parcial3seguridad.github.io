@@ -1,0 +1,17 @@
+header {
+    background-color: #35424a;
+    color: #ffffff;
+    padding: 20px 0;
+}
+.section {
+    margin-bottom: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.p1{
+    font-size: 17px;
+    font-weight: normal;
+    
+}

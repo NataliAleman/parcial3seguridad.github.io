@@ -1,0 +1,11 @@
+/* styles.css */
+.container {
+  padding-top: 50px;
+}
+
+img.img-fluid {
+  max-width: 60%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
